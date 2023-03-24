@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!-- ![githubstats](https://github-readme-stats.vercel.app/api?username=sejin8839&show_icons=true&theme=white)   -->
 
